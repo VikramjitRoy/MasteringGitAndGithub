@@ -1,2 +1,8 @@
 Assignment 4 demo file
+<<<<<<< Updated upstream
 Making changes in  branch.for rebase.
+=======
+Making changes in  branch.for rebase.i
+Changes for stash
+sfasd
+>>>>>>> Stashed changes
